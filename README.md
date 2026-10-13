@@ -51,7 +51,7 @@ column generation.
 
 | Component | Specification |
 | :--- | :--- |
-| CPU | Intel Core i7-13850HX (14 cores / 28 threads) |
+| CPU | Intel Core i7-13850HX (20 cores / 28 threads) |
 | RAM | 32 GB DDR5 |
 | OS | Ubuntu 24.04 LTS (WSL2) |
 
