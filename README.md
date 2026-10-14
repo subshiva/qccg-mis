@@ -98,8 +98,8 @@ Quantum Simulator — all quantum circuits simulated classically via Qiskit Aer 
 
 ## AI Usage Disclosure and Declaration
 This PR submission is **AI assisted**: Parts of the code and text were AI-generated, then reviewed and edited by the submitter. 
-**Code**: Claude-4.6 was used via prompts to assist with generating the initial versions of lower-level subroutines including graph partitioning, Qiskit code for simulation, GA implementation, and reassembly of columns, all of which were significantly edited and debugged thereafter by the submitter.
-**Writeup**: Claude 4.6 and GPT6-Astra assisted using prompts with the text to assist with an initial draft, to extract and generate the results tables and figures from the code output, assist with the initial theoretical results, claims, and model notation, as well as for polishing grammar and language checks, all of which were thereafter edited and revised thoroughly by the submitter.
+**Code**: Claude-4.6 was used to assist with generating the initial versions of lower-level subroutines including graph partitioning, Qiskit code for simulation, GA implementation, and reassembly of columns, all of which were significantly edited and debugged thereafter by the submitter.
+**Writeup**: Claude 4.6 and GPT6-Astra assisted with the text to assist with an initial draft, to extract and generate the results tables and figures from the code output, assist with the initial theoretical results, claims, and model notation, as well as for polishing grammar and language checks, all of which were thereafter edited and revised thoroughly by the submitter.
 ## Citation
 
 Paper in preparation.
